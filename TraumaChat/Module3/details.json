@@ -1,0 +1,4 @@
+{
+    "login":{"user@gmail.com": "password"},
+    "doctor": {"names":["DR.Patel", "Dr.Yasmin"], "email":["swathi.qriocity@gmail.com", "swathi.qriocity@gmail.com"]}
+}
